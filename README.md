@@ -1,1 +1,1 @@
-# Jeu-du-Pendu
+# pendu
